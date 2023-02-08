@@ -1,0 +1,6 @@
+step1:copy the code 
+step2:go to inspect in browser
+step:3paste the code in console and give enter
+step:4 debug process begins
+steep5:use forward button iteratingly for see the debugging step bystep (like mention in last screenshot)
+
