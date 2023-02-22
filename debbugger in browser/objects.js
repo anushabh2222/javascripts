@@ -2,7 +2,7 @@ let emp={
 
 }
 let emp1={
-    name:"anusha",
+    name:" anusha",
     technology:"reactjs"
 }
 console.log(emp);//empty object(no properties)

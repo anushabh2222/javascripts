@@ -1,7 +1,7 @@
 let alien={
     name:"anu",
 tech:'reactjs',
-laptop:{
+laptop:{ //complex object
     ram:4,
     cpu:'18',
     brand:'acer'
@@ -16,3 +16,4 @@ for(let k in alien.laptop)
 {
     console.log(k,alien.laptop[k])
 }
+console.log(alien.laptop.brand);

@@ -5,5 +5,5 @@ function greeting()
 greeting();
 greeting();
 greeting();
-greeting();
-greeting();
+greeting(0);
+greeting(1);

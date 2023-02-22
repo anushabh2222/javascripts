@@ -1,0 +1,6 @@
+let add=function(n1,n2) //function w/o name(anonymous function)  add is a variable
+{
+    return (n1+n2);
+}
+let res=add(1,2); //we r calling var instead of func
+console.log(res);
