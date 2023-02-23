@@ -20,3 +20,6 @@ n.filter(m =>m%2===0)
     .map(m =>m*2)//double the even numbers which r filtered from filter method
     .reduce((a,b) =>a+b); //it will reduce the array values to one value
     console.log(r);
+
+
+    //repository name for this project is javascripts
